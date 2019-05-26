@@ -20,3 +20,7 @@ create()
 read(key)
 delete(key)
 Database(name[,location])
+
+WorkFlow:
+Database.py and __init__.py are file of the package created.
+Main_File is an example that import the Database package.
